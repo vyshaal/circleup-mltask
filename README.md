@@ -5,6 +5,7 @@
 - Libraries used in this projected are mentioned in "requirements.txt". Make sure that all the dependencies are satisfied.
 - All the visualizations are done through plotly library. You need to setup plotly credentials in your home directory when you use it for the first time. Instructions to the credentials setup can be found at https://plot.ly/python/getting-started/#initialization-for-online-plotting
 - Both the questions are solved in seperate jupyter notebooks. 
+- Plotly makes interactive plots due to which plots aren't visible when notebooks are viewed through github. Please download the project and then open the notebook.
 - All the assumptions and reasoning behind the technique are either explained through inline comments or a seperate section right next to the code.
 - Many techniques have been tried w.r.t. both the questions. Only the best technique that felt sensible has been presented.
 - Make sure that the spreadsheet is in correct path before running the code.
